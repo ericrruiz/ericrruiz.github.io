@@ -1,0 +1,22 @@
+h1, h2 {
+	color:blue;
+	text-align:center;
+}
+
+h1 {
+	text-decoration:underline;
+	text-transform:uppercase;
+}
+
+img {
+	box-shadow:10px 10px 15px gray;
+}
+
+.general_content {
+	color:green;
+	margin-left:50px;
+}
+
+#biography {
+	
+}
